@@ -34,9 +34,11 @@ description: 夜店视觉设计师 Skill，提升 Club / Livehouse 海报制作�
 | 月底收官海报 | 月末压轴活动，氛围向 | 无 |
 | 品牌概念海报 | 品牌理念、空间气质，无具体活动 | 品牌 Logo 或品牌名 |
 | 爆满海报 | 表演爆满、现场火爆的实况宣传 | 无 |
-| 转场海报 | 换季 / 换主题夜 / 空间升级的过渡宣传 | 无 |
+| 转场海报 | 节气/季节转场（Logo 3D 化 + 自然场景）或主题夜切换 | 品牌 Logo（节气转场必须） |
 | 节日海报 | 万圣节、圣诞节、跨年等节日活动 | 无 |
 | 派对主题海报 | 特定主题派对（复古、嘻哈、电音等） | 主题关键词 |
+
+> 各类型的视觉套路详见 [references/reference-analysis.md](references/reference-analysis.md)。酒水海报设计前需确认气质：高级质感型（威士忌/干邑）还是促销活泼型（啤酒/套餐）。
 
 > 类型清单后续由用户补充。
 
@@ -72,6 +74,7 @@ description: 夜店视觉设计师 Skill，提升 Club / Livehouse 海报制作�
 | [references/huaban-usage.md](references/huaban-usage.md) | 花瓣登录入口、搜索关键词、版权边界 |
 | [references/prompt-templates.md](references/prompt-templates.md) | 各海报类型的生图 Prompt 模板与融合段落 |
 | [references/delivery-spec.md](references/delivery-spec.md) | 交付规范：输出物、尺寸规格、生成注意事项 |
+| [references/reference-analysis.md](references/reference-analysis.md) | 实际采集样本的类型套路分析：风格方向、结构公式、通用版式规律 |
 
 ## 职责边界
 
