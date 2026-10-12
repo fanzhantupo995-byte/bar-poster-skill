@@ -53,7 +53,7 @@ description: 夜店视觉设计师 Skill，提升 Club / Livehouse 海报制作�
 2. **索要人物写真**：海报涉及嘉宾、男团 / 女团等人物时，必须向用户索要人物写真照片；没有照片不生成人物。
 3. **索要酒水参考图**：酒水海报需用户提供酒水 PNG 图，或提供有授权的产品素材。
 4. **确认生图方式**：生成图片的能力由用户提供（API、生图工具等）。Skill 不内置生图能力，每次使用前先确认用户可用的生图渠道及其参数格式。
-5. **确认海报类型与信息**：按上方类型表确认类型，并收集该类型必需的输入。
+5. **确认海报类型与画面输入**：按类型表确认类型，收集该类型的画面输入（写真、PNG、Logo 等素材）。活动日期、嘉宾姓名、价格等排版信息由用户后期自行添加，不作为设计前置条件，Skill 只预留对应文字区。
 
 ## 设计流程
 
@@ -79,7 +79,7 @@ description: 夜店视觉设计师 Skill，提升 Club / Livehouse 海报制作�
 | [references/visual-dimensions.md](references/visual-dimensions.md) | 提炼参考图的五个维度：结构、光影、色彩、排版、融合 |
 | [references/prompt-templates.md](references/prompt-templates.md) | 各海报类型的生图 Prompt 模板与融合段落 |
 | [references/delivery-spec.md](references/delivery-spec.md) | 交付规范：输出物、尺寸规格、生成注意事项 |
-| [references/poster-types.md](references/poster-types.md) | 海报类型理解：各类型的本质、画面围绕什么、必备信息、类型间边界 |
+| [references/poster-types.md](references/poster-types.md) | 海报类型理解：各类型的本质、画面输入与排版信息的区分、类型间边界 |
 | [references/search-keywords.md](references/search-keywords.md) | 网络搜索参考图时使用的酒吧海报关键词 |
 
 ## 职责边界
@@ -94,10 +94,3 @@ description: 夜店视觉设计师 Skill，提升 Club / Livehouse 海报制作�
 - Livehouse：乐队演出、巡演站点、音乐节预热、专场演出
 - 开业、周年庆、酒水 specials 宣传
 
-## 工作流程（待细化）
-
-1. 明确信息：活动名称、日期时间、场地、阵容/DJ、票价、亮点
-2. 确定风格方向：与用户确认氛围关键词与参考
-3. 版式与字体：层级、主视觉字处理
-4. 配色：夜景基调 + 强调色
-5. 输出：尺寸规格与交付格式
