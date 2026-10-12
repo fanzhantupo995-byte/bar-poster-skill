@@ -30,7 +30,7 @@ description: 夜店视觉设计师 Skill，提升 Club / Livehouse 海报制作�
 |---|---|---|
 | 嘉宾海报 | 特邀 DJ / 音乐人专场，嘉宾是主视觉 | 嘉宾人物写真照片（必须） |
 | 男团 / 女团海报 | 团体嘉宾或演出阵容 | 团体成员写真照片（必须） |
-| 酒水海报 | 酒水推广、新品、specials | 酒水 PNG 图（可从花瓣网搜索） |
+| 酒水海报 | 酒水推广、新品、specials | 用户提供的酒水 PNG 图或有授权的产品素材 |
 | 月底收官海报 | 月末压轴活动，氛围向 | 无 |
 | 开门红海报 | 每月月初固定节奏的开场造势（不是开业宣传） | 无 |
 | 品牌概念海报 | 品牌理念、空间气质，无具体活动 | 品牌 Logo 或品牌名 |
@@ -51,16 +51,13 @@ description: 夜店视觉设计师 Skill，提升 Club / Livehouse 海报制作�
 
 1. **索要品牌资产**：向用户索要品牌 Logo（常见）或角色 IP（较少见），以及品牌名。没有这些不开始设计。
 2. **索要人物写真**：海报涉及嘉宾、男团 / 女团等人物时，必须向用户索要人物写真照片；没有照片不生成人物。
-3. **索要酒水参考图**：酒水海报需用户提供酒水 PNG 图，或由 Skill 指引用户在花瓣网搜索下载 PNG 素材。
+3. **索要酒水参考图**：酒水海报需用户提供酒水 PNG 图，或提供有授权的产品素材。
 4. **确认生图方式**：生成图片的能力由用户提供（API、生图工具等）。Skill 不内置生图能力，每次使用前先确认用户可用的生图渠道及其参数格式。
 5. **确认海报类型与信息**：按上方类型表确认类型，并收集该类型必需的输入。
-6. **确认花瓣登录态**：花瓣网搜索参考图需要登录态。Skill 使用前必须要求用户登录花瓣；未登录时提示用户先登录，再做参考搜索。
 
 ## 设计流程
 
-1. **找参考**：在花瓣网搜索同类型海报参考图，收集 3–5 张。
-   - 前置条件：用户已登录花瓣，否则先要求登录
-   - 参考图获取方式：花瓣网等网络搜索，或用户直接提供
+1. **接收参考**：使用用户提供的参考图，建议 3–5 张。用户可自行根据 [references/search-keywords.md](references/search-keywords.md) 搜索后上传。
    - 参考图**不入仓库**：仅在对话/工作目录中临时使用，用于视觉分析，用后即弃
 2. **提炼视觉**：从参考图中拆解四个维度，输出到设计方案中：
    - 画面结构（主视觉位置、构图、空间层次）
@@ -78,10 +75,10 @@ description: 夜店视觉设计师 Skill，提升 Club / Livehouse 海报制作�
 | 文件 | 用途 |
 |---|---|
 | [references/visual-dimensions.md](references/visual-dimensions.md) | 提炼参考图的五个维度：结构、光影、色彩、排版、融合 |
-| [references/huaban-usage.md](references/huaban-usage.md) | 花瓣登录入口、搜索关键词、版权边界 |
 | [references/prompt-templates.md](references/prompt-templates.md) | 各海报类型的生图 Prompt 模板与融合段落 |
 | [references/delivery-spec.md](references/delivery-spec.md) | 交付规范：输出物、尺寸规格、生成注意事项 |
 | [references/poster-types.md](references/poster-types.md) | 海报类型理解：各类型的本质、画面围绕什么、必备信息、类型间边界 |
+| [references/search-keywords.md](references/search-keywords.md) | 用户自行搜索参考图时使用的酒吧海报关键词 |
 
 ## 职责边界
 
