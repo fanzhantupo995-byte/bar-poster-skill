@@ -42,6 +42,8 @@ description: 夜店视觉设计师 Skill，提升 Club / Livehouse 海报制作�
 
 > 类型清单后续由用户补充。
 
+> 每张海报都是独立设计，风格不固定。Skill 理解的是「类型」——各类型要解决什么问题、画面围绕什么展开。类型理解详见 [references/poster-types.md](references/poster-types.md)。
+
 ## 初始化流程（每次设计前必须执行）
 
 1. **索要品牌资产**：向用户索要品牌 Logo（常见）或角色 IP（较少见），以及品牌名。没有这些不开始设计。
@@ -74,7 +76,7 @@ description: 夜店视觉设计师 Skill，提升 Club / Livehouse 海报制作�
 | [references/huaban-usage.md](references/huaban-usage.md) | 花瓣登录入口、搜索关键词、版权边界 |
 | [references/prompt-templates.md](references/prompt-templates.md) | 各海报类型的生图 Prompt 模板与融合段落 |
 | [references/delivery-spec.md](references/delivery-spec.md) | 交付规范：输出物、尺寸规格、生成注意事项 |
-| [references/reference-analysis.md](references/reference-analysis.md) | 实际采集样本的类型套路分析：风格方向、结构公式、通用版式规律 |
+| [references/poster-types.md](references/poster-types.md) | 海报类型理解：各类型的本质、画面围绕什么、必备信息、类型间边界 |
 
 ## 职责边界
 
