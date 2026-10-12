@@ -57,7 +57,9 @@ description: 夜店视觉设计师 Skill，提升 Club / Livehouse 海报制作�
 
 ## 设计流程
 
-1. **接收参考**：使用用户提供的参考图，建议 3–5 张。用户可自行根据 [references/search-keywords.md](references/search-keywords.md) 搜索后上传。
+1. **找参考**：通过可用的外部方式获取参考图，建议 3–5 张。
+   - 方式不限定：用户提供的图片、用户指定的搜索工具（MCP、CLI、浏览器等）、可用的网络搜索渠道均可
+   - 需要网络搜索时，参考 [references/search-keywords.md](references/search-keywords.md) 的关键词
    - 参考图**不入仓库**：仅在对话/工作目录中临时使用，用于视觉分析，用后即弃
 2. **提炼视觉**：从参考图中拆解四个维度，输出到设计方案中：
    - 画面结构（主视觉位置、构图、空间层次）
@@ -78,7 +80,7 @@ description: 夜店视觉设计师 Skill，提升 Club / Livehouse 海报制作�
 | [references/prompt-templates.md](references/prompt-templates.md) | 各海报类型的生图 Prompt 模板与融合段落 |
 | [references/delivery-spec.md](references/delivery-spec.md) | 交付规范：输出物、尺寸规格、生成注意事项 |
 | [references/poster-types.md](references/poster-types.md) | 海报类型理解：各类型的本质、画面围绕什么、必备信息、类型间边界 |
-| [references/search-keywords.md](references/search-keywords.md) | 用户自行搜索参考图时使用的酒吧海报关键词 |
+| [references/search-keywords.md](references/search-keywords.md) | 网络搜索参考图时使用的酒吧海报关键词 |
 
 ## 职责边界
 
