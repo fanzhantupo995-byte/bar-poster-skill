@@ -64,6 +64,15 @@ description: 夜店视觉设计师 Skill，提升 Club / Livehouse 海报制作�
 4. **预设计排版**：在生成的背景上标注文字预留区（主标题、副标题、信息区、Logo 位），供用户后期自行添加文字。
 5. **交付**：输出背景图 + 排版预留说明。
 
+## 参考资料
+
+| 文件 | 用途 |
+|---|---|
+| [references/visual-dimensions.md](references/visual-dimensions.md) | 提炼参考图的五个维度：结构、光影、色彩、排版、融合 |
+| [references/huaban-usage.md](references/huaban-usage.md) | 花瓣登录入口、搜索关键词、版权边界 |
+| [references/prompt-templates.md](references/prompt-templates.md) | 各海报类型的生图 Prompt 模板与融合段落 |
+| [references/delivery-spec.md](references/delivery-spec.md) | 交付规范：输出物、尺寸规格、生成注意事项 |
+
 ## 职责边界
 
 - **做**：海报背景视觉、氛围、光影、色彩、构图；排版预设计与文字预留区标注。
