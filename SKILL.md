@@ -15,7 +15,7 @@ description: 夜店视觉设计师 Skill，提升 Club / Livehouse 海报制作�
 
 - 核心体验：DJ 打碟、电子音乐、舞池、灯光秀
 - 音乐类型：House、Techno、Trance、Dubstep、Hip-hop / Trap 等
-- 海报气质：强烈、迷幻、高能量，霓虹光效、大字冲击力、暗色高饱和
+- 场景特点：夜间营业，以舞池与舞台为核心空间，现场氛围强
 - 典型信息：主题夜名称、主打 DJ / 嘉宾、日期时间、门票或预订信息
 
 ### 2. Livehouse
