@@ -56,7 +56,7 @@ cinematic atmosphere, poster background, no text
 ```
 {品牌空间/概念描述}, minimal or atmospheric composition,
 {品牌色} palette, {光影氛围}, premium mood,
-negative space for typography, poster background, no text
+poster background, no text
 ```
 
 ### 节日海报
@@ -82,7 +82,7 @@ poster background, no text
 - 保持 {logo/IP/人物/产品} 的识别度和完整轮廓
 - 场景光照与主体光影统一（{光源方向}、{色温}）
 - 主体与背景边缘自然融合（{处理方式: rim light / glow / color grade}）
-- 构图位置：{位置}，预留 {文字区} 空间
+- 构图位置：{位置}；文字后期可直接叠加在主体或场景元素上，不要求预留空白
 ```
 
 ## 通用负面词
